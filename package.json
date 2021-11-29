@@ -1,0 +1,22 @@
+{
+  "name": "trace-tanmay",
+  "version": "1.0.0",
+  "description": "My Personal NPM Card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayc07/Personal-NPM-Card.git"
+  },
+  "keywords": [
+    "card"
+  ],
+  "author": "tanmayc07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmayc07/Personal-NPM-Card/issues"
+  },
+  "homepage": "https://github.com/tanmayc07/Personal-NPM-Card#readme"
+}
